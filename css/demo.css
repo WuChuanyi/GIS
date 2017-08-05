@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow|Volkhov:400italic,700);
 @font-face {
     font-family: 華康彩帶體 Std W7;
-    src: url('fonts/DFCaiDaiStd-W7.otf');
+    src: url('../fonts/DFCaiDaiStd-W7.otf');
 }
 
 *,
